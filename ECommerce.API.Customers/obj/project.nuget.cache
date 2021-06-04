@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "E8QcA47T6/uGni8z3gEUm3TgQzZLhs7LNTKtuKu0yKhdpb8+3uzZtYH3BWKVexJuCvah3mnb3GNjUNY4rmpJCA==",
+  "dgSpecHash": "c+Xj69+btp/fy5EhYXPNYGznfJLmNkHc1fuT279kI1LrMXMjMZfBA0F+d04is0648vL2axRtzmP/WWFXApDlyA==",
   "success": true,
   "projectFilePath": "C:\\MyData\\DEV\\Training\\Azure Microservices With Net Core\\Ecommerce\\ECommerce.API.Customers\\ECommerce.API.Customers.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\nelsonm\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\nelsonm\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\nelsonm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nelsonm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
     "C:\\Users\\nelsonm\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\nelsonm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\nelsonm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
